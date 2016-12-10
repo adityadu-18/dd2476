@@ -1,0 +1,215 @@
+task 1.4
+---
+
+1 Biological_Systems_Engineering 1
+1 Candidate_Statements 0
+1 Computer_Science 1
+1 document_translated 0
+1 ECE_Course_Reviews 1
+1 Economics 1
+1 Elaine_Kasimatis 2
+1 Evelyn_Silvia 2
+1 Events_Calendars 1
+1 Fiber_and_Polymer_Science 1
+1 Graduate_Groups 1
+1 Hydrology 1
+1 Mathematics 3
+1 MattHh 0
+1 Private_Tutoring 1
+1 Quantitative_Biology_and_Bioinformatics 1
+1 Statistics 3
+1 Student_Organizations 1
+1 UC_Davis_English_Department 1
+1 UCD_Honors_and_Prizes 1
+1 University_Departments 1
+1 What_I_Wish_I_Knew...Before_Coming_to_UC_Davis_Entomology 2
+1 Wildlife%2C_Fish%2C_and_Conservation_Biology 1
+
+---
+
+difficult cases
+1. what i wish i knew...
+this page is too general for collecting useful informations for mathematics as graduate program, hence i considered rate this page as level 1. however, take into consideration the generality this page could provide, those who wants a brief view of the whole program in the campus may get some additional informations. therefore i finally rated this page as level 2.
+2. economics
+economics are highly relevant to the field of mathematics, however this page contains only undergraduate program relating to the major of economics. therefore i rated this page as level 1.
+3. computer science
+this field also requires highly intensive mathemtaics skill, for example, probablistics, discrete mathematics, and so on. however, this page are barely relevant to the graduate program. hence i rated this page as level 1.
+
+1.5
+1) 'mathematics undergraduate education'
+13 documents
+ 0. ./davisWiki/Candidate_Statements.f
+ 1. ./davisWiki/document_translated.f
+ 2. ./davisWiki/Elaine_Kasimatis.f 2
+ 3. ./davisWiki/Evelyn_Silvia.f 2
+ 4. ./davisWiki/Events_Calendars.f 1
+ 5. ./davisWiki/Graduate_Groups.f 1
+ 6. ./davisWiki/Linda_Katehi.f 1
+ 7. ./davisWiki/Mechanical_and_Aeronautical_Engineering.f 2
+ 8. ./davisWiki/Private_Tutoring.f 1
+ 9. ./davisWiki/Student_Organizations.f 1
+ 10. ./davisWiki/The_Mary_Jeanne_Gilhooly_Award.f 0
+ 11. ./davisWiki/UCD_Honors_and_Prizes.f 0
+ 12. ./davisWiki/University_Departments.f 1
+precision: 9/13=0.68
+recall: 9/100
+not a even good query, try other
+
+2) 'mathematics graduate courses'
+19 documents
+
+Found 19 matching document(s)
+
+ 0. ./davisWiki/Biological_Systems_Engineering.f 1
+ 1. ./davisWiki/Candidate_Statements.f
+ 2. ./davisWiki/Computer_Science.f 1
+ 3. ./davisWiki/document_translated.f
+ 4. ./davisWiki/ECE_Course_Reviews.f 1
+ 5. ./davisWiki/Economics.f 2
+ 6. ./davisWiki/Fiber_and_Polymer_Science.f 1
+ 7. ./davisWiki/Hydrology.f 1
+ 8. ./davisWiki/Mathematics.f 3
+ 9. ./davisWiki/MattHh.f
+ 10. ./davisWiki/Mechanical_and_Aeronautical_Engineering.f 1
+ 11. ./davisWiki/PatrickDragon.f 1
+ 12. ./davisWiki/Private_Tutoring.f 1
+ 13. ./davisWiki/Statistics.f 3
+ 14. ./davisWiki/Teaching_Assistants.f 1
+ 15. ./davisWiki/UC_Davis_English_Department.f 1
+ 16. ./davisWiki/UCD_Honors_and_Prizes.f 1
+ 17. ./davisWiki/Weeder_Classes.f 1 
+ 18. ./davisWiki/What_I_Wish_I_Knew...Before_Coming_to_UC_Davis_Entomology.f 1
+precision: 16/18=0.8889
+recall: 16/100
+the best precision rate and recall among those queries.
+moreover, the most relevant pages 'mathematics', 'economics' and 'statistics' are listed in the results.
+hence i consider this query the optimal.
+
+task 2.3
+---
+
+1 ./davisWiki/Mathematics.f 3
+1 ./davisWiki/Elaine_Kasimatis.f 2
+1 ./davisWiki/Statistics.f 3
+1 ./davisWiki/What_I_Wish_I_Knew...Before_Coming_to_UC_Davis_Entomology.f 2
+1 ./davisWiki/Evelyn_Silvia.f 2
+1 ./davisWiki/document_translated.f 0
+1 ./davisWiki/UCD_Honors_and_Prizes.f 1
+1 ./davisWiki/Private_Tutoring.f 1
+1 ./davisWiki/Economics.f 1
+1 ./davisWiki/University_Departments.f 1
+1 ./davisWiki/MattHh.f 1
+1 ./davisWiki/Computer_Science.f 1
+1 ./davisWiki/Fiber_and_Polymer_Science.f 1
+1 ./davisWiki/CLIMB.f 1
+1 ./davisWiki/Graduate_Groups.f 1
+1 ./davisWiki/Roommates_Wanted.f 0
+1 ./davisWiki/Hydrology.f 1
+1 ./davisWiki/Teaching_Assistants.f 1
+1 ./davisWiki/Electrical_and_Computer_Engineering.f 1
+1 ./davisWiki/Move_to_Division_I.f 0
+1 ./davisWiki/University_of_California_Washington_Center_Program.f 1
+1 ./davisWiki/Atmospheric_Science.f 0
+1 ./davisWiki/Student_Organizations.f 1
+1 ./davisWiki/Biological_Systems_Engineering.f 1
+1 ./davisWiki/UC_Davis_English_Department.f 0
+1 ./davisWiki/Trivia_Nights.f 0
+1 ./davisWiki/Society_for_Industrial_and_Applied_Mathematics.f 1
+1 ./davisWiki/Yolo_County_Juvenile_Drug_Court.f 0
+1 ./davisWiki/Sigma_Phi_Epsilon.f 1
+1 ./davisWiki/Volunteer_Opportunities.f 0
+1 ./davisWiki/Graduate_Students.f 1
+1 ./davisWiki/Academic_Help.f 1
+1 ./davisWiki/Parenting.f 0
+1 ./davisWiki/UCD_Theatre_%26_Dance_Dept..f 0
+1 ./davisWiki/University_Village.f 0
+1 ./davisWiki/Community_Development_Graduate_Group.f 1
+1 ./davisWiki/Quantitative_Biology_and_Bioinformatics.f 1
+1 ./davisWiki/Graduate_Academic_Achievement_and_Advocacy_Program.f 0
+1 ./davisWiki/Geography_at_UC_Davis.f 0
+1 ./davisWiki/Landscape_Architecture.f 0
+1 ./davisWiki/The_Green_Initiative_Fund.f 0
+1 ./davisWiki/Candidate_Statements.f 0
+1 ./davisWiki/Mayra_Mart%C3%ADn.f 0
+1 ./davisWiki/Joanne_Moldenhauer.f 0
+1 ./davisWiki/Mathematics_ArXiv_front.f 1
+1 ./davisWiki/Sylvan_Learning_Center.f 1
+1 ./davisWiki/Art_Studio.f 0
+1 ./davisWiki/Wildlife%2C_Fish%2C_and_Conservation_Biology.f 0
+1 ./davisWiki/McNair_Scholars_Program.f 0
+1 ./davisWiki/Marisol_Ornelas.f 0
+
+p/r 10~20~30~40~50
+0.9 0.85 0.73 0.65 0.56
+0.09 0.17 0.22 0.26 0.28
+
+3.4
+
+zombie attack
+---
+
+ 0. ./davisWiki/JasonRifkind.f   1.49614
+ 2. ./davisWiki/Kearney_Hall.f   0.15911
+ 3. ./davisWiki/Spirit_Halloween.f   0.12142
+ 7. ./davisWiki/Disasters.f   0.08627
+ 8. ./davisWiki/Zombie_Walk.f   0.08443
+ 9. ./davisWiki/Scream.f   0.08184
+ 11. ./davisWiki/Biological_Disasters.f   0.06747
+ 15. ./davisWiki/TrustInMe.f   0.04931
+ 19. ./davisWiki/Elm_Leaf_Beetle.f   0.04474
+ 23. ./davisWiki/Zombies_Reclaim_the_Streets.f   0.03501
+ 30. ./davisWiki/HandGiraffe.f   0.02630
+ 37. ./davisWiki/Humans_vs._Zombies.f   0.02028
+ 40. ./davisWiki/LetJusticeBeServed.f   0.01904
+
+ p/r 3~10~20~30~40~50
+ 0.67 0.6 0.4736 0.3333 0.275 0.24
+ 0.03 0.06 0.09 0.1 0.11 0.12
+
+ 3~10~14
+ 0.67 0.7 0.5714
+ 0.03 0.07 0.08
+
+money transfer
+---
+
+ 5. ./davisWiki/Transfer_Student_Services.f   0.13409
+ 9. ./davisWiki/Transfer_Student_Association.f   0.09423
+ 10. ./davisWiki/Student_Accounting.f   0.09223
+ 13. ./davisWiki/Student_Special_Services.f   0.08261
+ 29. ./davisWiki/UCD_Cashier%27s_Office.f   0.05206
+ 36. ./davisWiki/RichardBobo.f   0.04258
+ 37. ./davisWiki/money.f   0.04216
+ 40. ./davisWiki/UCD_Student_Services.f   0.04050
+
+ 3~10~20~30~40~50
+ 0 0.2 0.2 0.1667 0.175 0.16
+ 0 0.02 0.04 0.05 0.07 0.08
+
+ 3~10
+ 0 0.7
+ 0 0.07
+
+happy hour drinks
+---
+
+ 0. ./davisWiki/Happy_Hour_Drink.f   1.38782
+ 1. ./davisWiki/Happy_Hour_Food.f   1.38782
+ 2. ./davisWiki/Special_Drink_Nights.f   1.38782
+ 4. ./davisWiki/Milk_Shake.f   1.29431
+ 5. ./davisWiki/Power_Hour.f   0.72527
+ 8. ./davisWiki/Rosetta_Cafe.f   0.21208
+ 28. ./davisWiki/FloridianPlywood.f   0.05874
+ 29. ./davisWiki/Fusions_Asian_Bistro.f   0.05830
+ 35. ./davisWiki/Coho_South_Cafe.f   0.05393
+ 39. ./davisWiki/Pachamama_Coffee_Cooperative_Davis.f   0.05182
+ 42. ./davisWiki/Dessert.f   0.04915
+ 45. ./davisWiki/Brenan%27s_Starbucks.f   0.04680
+
+ 3~10~20~30~40~50
+ 1 0.6 0.3 0.2667 0.25 0.24
+ 0.03 0.06 0.06 0.08 0.1 0.12
+
+ 3~10~20~30~40~50
+ 1 0.5 0.5 0.4667 0.425 0.42
+ 0.03 0.05 0.1 0.14 0.17 0.21
